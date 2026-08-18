@@ -1,8 +1,17 @@
+<div align="center">
+
 # Itay Fliess
 
-**Software Lead @ Orbit 1690**
+[![GitHub](https://img.shields.io/badge/GitHub-@glitchfl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/glitchfl)
+[![Discord](https://img.shields.io/badge/Discord-GlitchFL-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/GlitchFL)
+[![Email](https://img.shields.io/badge/Email-itayfliss@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itayfliss@gmail.com)
+<br/>
 
-[GitHub](https://github.com/glitchfl) · [Email](mailto:itayfliss@gmail.com) · Discord `GlitchFL`
+**Software Lead @ FRC 1690 Orbit** · 17 y/o
+
+---
+
+</div>
 
 ```dart
 class Itay {
