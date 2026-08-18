@@ -62,25 +62,6 @@ class Itay implements Developer {
   String toString() => '$name | $age | $role';
 }
 
-/// FRC - FIRST Robotics Competition
-class Orbit {
-  static const int number = 1690;
-  static const String home = 'Binyamina, Israel';
-
-  final Itay lead = Itay();
-
-  static const season = [
-    'plan',
-    'code',
-    'debug',
-    'fix',
-    'improve',
-    'panic',
-    'debugAtTwoAM',
-    'compete'
-  ];
-}
-
 extension OffTheClock on Itay {
   Map<String, String> get elsewhere => const {
     'Valorant': 'peak Immortal 3',
