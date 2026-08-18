@@ -30,6 +30,12 @@ class Itay {
     "Rubik's Cube": '15s avg, top 1%',
   };
 
+  final contact = const {
+    'github': '@glitchfl',
+    'discord': 'GlitchFL',
+    'email': 'itayfliss@gmail.com',
+  };
+
   Future<void> build() async {
     while (true) {
       await learnSomething();
