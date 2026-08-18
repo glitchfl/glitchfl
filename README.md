@@ -44,15 +44,5 @@ class Itay {
     'discord': 'GlitchFL',
     'email': 'itayfliss@gmail.com',
   };
-
-  Future<void> build() async {
-    while (true) {
-      await learnSomething();
-      ship();
-    }
-  }
-
-  Future<void> learnSomething() async {}
-  void ship() {}
 }
 ```
