@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-itayfliss@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itayfliss@gmail.com)
 <br/>
 
-**Software Lead @ FRC 1690 Orbit** · 17 y/o
+**Software Lead @ FRC 1690 Orbit · 17 y/o**
 
 ---
 
